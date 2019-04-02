@@ -1,0 +1,9 @@
+[package]
+name = "untitled"
+version = "0.1.0"
+authors = ["alex <alex.feng@stonybrook.edu>"]
+edition = "2018"
+
+[dependencies]
+rust-crypto = "0.2.36"
+failure = "0.1.5"
